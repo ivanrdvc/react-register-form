@@ -1,6 +1,6 @@
 # React Form Register
 
-![Image of the project]((https://user-images.githubusercontent.com/13908256/30880562-3e7cfd4e-a303-11e7-9d3e-437c9b29537a.png)
+![Image of the project](https://user-images.githubusercontent.com/13908256/30880562-3e7cfd4e-a303-11e7-9d3e-437c9b29537a.png)
 
 Small project for testing how React handles a more advanced type of form.
 
