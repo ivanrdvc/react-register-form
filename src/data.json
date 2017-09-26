@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Course One Name",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt dignissimos a, impedit!",
+    "value": "DAY1",
+    "color": "#39DAA9"
+  },
+  {
+    "id": "2",
+    "name": "Course Two Name",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt dignissimos a, impedit!",
+    "value": "DAY2",
+    "color": "#2DCEE3"
+  },
+  {
+    "id": "3",
+    "name": "Course Three Name",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt dignissimos a, impedit!",
+    "value": "DAY3",
+    "color": "#FFA87D"
+  },
+  {
+    "id": "4",
+    "name": "Course Four Name",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt dignissimos a, impedit!",
+    "value": "DAY4",
+    "color": "#FF7588"
+  }
+]
